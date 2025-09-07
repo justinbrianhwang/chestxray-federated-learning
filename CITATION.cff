@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this code or results in your research, please cite it as below."
+title: "Chest X-ray Federated Learning (NIH)"
+authors:
+  - family-names: Hwang
+    given-names: Sunjun
+date-released: 2025-09-07
+version: "0.1.0"
+repository-code: "https://github.com/your-org-or-user/chestxray-federated-learning"
